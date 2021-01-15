@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AudioRecord</string>
+    <string name="asr_result">识别结果</string>
+</resources>

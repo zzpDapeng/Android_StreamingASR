@@ -1,0 +1,4 @@
+include ':asr'
+rootProject.name='StreamingASR'
+include ':app'
+include ':record'
